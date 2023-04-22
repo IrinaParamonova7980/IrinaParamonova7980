@@ -5,12 +5,14 @@
 I'm Irina and I'm a Frontend developer from Kazan 👩🏽‍💻
 
 <div id="header" align="start">
-  <img src="https://media4.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif?cid=ecf05e47l27vsn7hyv16z9vnjkb2zewqdvydl96vv5becv46&rid=giphy.gif&ct=g" width="200"/>
-    
+  <img src="https://vgif.ru/gifs/166/vgif-ru-37752.gif"/>
+     
 </div>
-- 💎 I can create beautiful websites
-- 💻 I’m working on ReactJS and JavaScript
-- ❤️ I love sports, mountains and cats
+<div>
+- 💎 I can create beautiful websites<br>
+- 💻 I’m working on ReactJS and JavaScript<br>
+- ❤️ I love sports, mountains and cats<br>
+</div>
 
 ### Technologies:
 <div>
@@ -23,8 +25,3 @@ I'm Irina and I'm a Frontend developer from Kazan 👩🏽‍💻
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IrinaParamonova7980&layout=compact)](https://github.com/IrinaParamonova7980/github-readme-stats)
-
-### Connect with me:
-
-- <a href="https://t.me/irina_paramonova" target="blank">Telegram</a>
-- <a href="irisha-7980@yandex.ru" target="blank">E-mail</a>
