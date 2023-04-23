@@ -1,14 +1,12 @@
-### Hi,👋
+## Hi there,👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&width=600&lines=Welcome+To+Irina+Paramonova+Github+Profile..)](https://git.io/typing-svg)
-
-I'm Irina and I'm a Frontend developer from Kazan 👩🏽‍💻
+### I'm Irina and I'm a Frontend developer from Kazan 👩🏽‍💻
 
 <img img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
 
 <div>
-- 💎 I can create beautiful websites<br>
-- 💻 I’m working on ReactJS and JavaScript<br>
+- 💻 I'm currently working in TypeScript, ReactJS<br>
+- 💎 I’m currently learning TypeScript and JS improvements<br>
 - ❤️ I love sports, mountains and cats<br>
 </div>
 
