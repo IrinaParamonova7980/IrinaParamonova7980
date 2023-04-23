@@ -4,10 +4,8 @@
 
 I'm Irina and I'm a Frontend developer from Kazan 👩🏽‍💻
 
-<div id="header" align="start">
-  <img src="https://vgif.ru/gifs/166/vgif-ru-37752.gif"/>
-     
-</div>
+<img img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
+
 <div>
 - 💎 I can create beautiful websites<br>
 - 💻 I’m working on ReactJS and JavaScript<br>
