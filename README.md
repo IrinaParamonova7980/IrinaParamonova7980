@@ -5,8 +5,8 @@
 <img img src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px">
 
 <div>
-- 💻 I'm currently working in TypeScript, ReactJS<br>
-- 💎 I’m currently learning TypeScript and JS improvements<br>
+- 💻 I'm currently working in ReactJS<br>
+- 💎 I’m currently learning JS improvements<br>
 - ❤️ I love sports, mountains and cats<br>
 </div>
 
